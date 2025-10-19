@@ -2,8 +2,8 @@ h1 {
     text-align: center;
     margin-top: 50px;
 
-* {
-    font-family: Inter;
+body { 
+    font-family: Inter, Arial;
     text-align: center;
 }
 
